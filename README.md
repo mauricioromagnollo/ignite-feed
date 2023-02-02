@@ -4,6 +4,7 @@
 
 - CSS Modules
 - Font: Roboto (400, 700)
+- Phosphor Icons
 
 ## Layout do Projeto
 
